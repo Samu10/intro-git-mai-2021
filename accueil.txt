@@ -1,3 +1,5 @@
 Accueilpage
 lien vers styles.css
 lien vers le panier
+jj
+Petite correction graphique
