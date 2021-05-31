@@ -3,3 +3,5 @@ lien vers styles.css
 lien vers le panier
 lien vers le login
 Ajout d'une bannière
+jj
+Petite correction graphique
